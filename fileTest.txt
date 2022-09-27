@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 modificato da master
+=======
+Modificato file test
+>>>>>>> test
